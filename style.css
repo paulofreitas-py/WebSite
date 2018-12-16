@@ -33,8 +33,8 @@ body{
   text-align: justify;
 }
 ul{
-  margin: 0;
-  padding: 0;
+  margin: 640;
+  padding: 640;
 }
 .box li{
   display: inline-block;
